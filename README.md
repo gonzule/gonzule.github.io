@@ -1,4 +1,5 @@
-# kindle-weather-dashboard with more days and using part of the new openweather api that enables you to have more hourly forecasts
+# kindle-weather-dashboard 
+with more days and using part of the new openweather api that enables you to have more hourly forecasts
 Original source: https://github.com/matopeto/kindle-weather-dashboard
 Simple webpage with weahter informations.
 
